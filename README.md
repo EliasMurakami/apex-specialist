@@ -65,14 +65,14 @@ Ensure that your code operates as expected in the scheduled context by validatin
 
 
 
-1 [PT-BR] - Crie uma nova Org Prática em seu Trailhead para a resolução e validação dessa superbadge, isso evitara problemas de conflitos com outros exercicios. Você precisará instalar o package disponível no passo 2 para todos os usuários em sua org.
-2 [PT-BR] - Instale o novo package (package ID: 04t6g000008av9iAAA). Esse package contem os metadadados e configurações básicas para a conclusão desse desafio. Se você encontrar algum problema ou não souber como instalar, procure no Trailhead como instalar um Package ou App no Trailhead.
-3 [PT-BR] - Após concluir os passos 1 e 2, você precisará adicionar adicionar mais 2 valores no Objeto 'Case', que serão 'Repair' e 'Routine Maintenace'
-4 [PT-BR] - Após adicionar os valores de picklist no objeto 'Case', você precisará atualizar o layout para o seu profile/as pessoas que teriam acesso a este layout.
-5 [PT-BR] Renomeie o nome da Aba/Nome do Objeto Case para 'Maintenace Request'.
-6 [PT-BR] Faça o update do layout da pagina 'Product' para Product(HowWeRoll) para o seu profile/as pessoas que teriam acesso a este layout
-7 [PT-BR] Remomeie a Aba/Nome do objeto de 'Product' para 'Equipment'
-8 [PT-BR] Agora use o App Launcher para navegar até 'Create Default Data'. E clique em 'Create Data', para gerar os dados necessários para continuarmos este modulo.
+1 [PT-BR] - Crie uma nova Org Prática em seu Trailhead para a resolução e validação dessa superbadge, isso evitara problemas de conflitos com outros exercicios. Você precisará instalar o package disponível no passo 2 para todos os usuários em sua org.</br>
+2 [PT-BR] - Instale o novo package (package ID: 04t6g000008av9iAAA). Esse package contem os metadadados e configurações básicas para a conclusão desse desafio. Se você encontrar algum problema ou não souber como instalar, procure no Trailhead como instalar um Package ou App no Trailhead.</br>
+3 [PT-BR] - Após concluir os passos 1 e 2, você precisará adicionar adicionar mais 2 valores no Objeto 'Case', que serão 'Repair' e 'Routine Maintenace'</br>
+4 [PT-BR] - Após adicionar os valores de picklist no objeto 'Case', você precisará atualizar o layout para o seu profile/as pessoas que teriam acesso a este layout.</br>
+5 [PT-BR] Renomeie o nome da Aba/Nome do Objeto Case para 'Maintenace Request'.</br>
+6 [PT-BR] Faça o update do layout da pagina 'Product' para Product(HowWeRoll) para o seu profile/as pessoas que teriam acesso a este layout</br>
+7 [PT-BR] Remomeie a Aba/Nome do objeto de 'Product' para 'Equipment'</br>
+8 [PT-BR] Agora use o App Launcher para navegar até 'Create Default Data'. E clique em 'Create Data', para gerar os dados necessários para continuarmos este modulo.</br>
 
 ## Casos de Uso. PT-BR
 
